@@ -9,7 +9,7 @@ const add = (x, y) => x + y;
 const give5 = () => 3;
 const doMath = (x, y) => {
     const sum = x + y;
-    const diff = x- y;
+    const diff = x - y;
     const result = sum * diff;
     return result;
 }

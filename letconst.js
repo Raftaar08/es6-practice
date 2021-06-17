@@ -1,10 +1,9 @@
-const hubby ="Zinia";
+const wife ="Zinia";
 
-console.log(hubby);
+console.log(wife);
 
 
 const numbers = [12, 13];
 numbers[1] = 88;
 numbers.push(12);
-
-let 
+// console.log(numbers);
